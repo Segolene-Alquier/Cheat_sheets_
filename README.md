@@ -15,3 +15,4 @@
 - [Tests on Rails 🚨](https://github.com/SegoleneAl/Cheat_sheets_/blob/master/Rails/Testing_Rails.md)
 - [Devise 👥](https://github.com/SegoleneAl/Cheat_sheets_/blob/master/Rails/Devise.md)
 - [The Asset Pipeline 💅](https://github.com/SegoleneAl/Cheat_sheets_/blob/master/Rails/Asset_Pipeline.md)
+## VM
